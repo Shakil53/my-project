@@ -1,0 +1,36 @@
+{
+    "students": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "age": 20,
+        "major": "Computer Science",
+        "courses": [
+          { "id": 101, "name": "Introduction to Programming" },
+          { "id": 102, "name": "Data Structures and Algorithms" }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Jane Smith",
+        "age": 22,
+        "major": "Electrical Engineering",
+        "courses": [
+          { "id": 201, "name": "Circuit Analysis" },
+          { "id": 202, "name": "Digital Signal Processing" }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Alice Johnson",
+        "age": 21,
+        "major": "Mathematics",
+        "courses": [
+          { "id": 301, "name": "Calculus I" },
+          { "id": 302, "name": "Linear Algebra" }
+        ]
+      }
+     
+    ]
+  }
+  
